@@ -1,0 +1,8 @@
+#container { margin: 134px 0 0 450px;}
+
+canvas {
+	margin: 125px 0 0 450px;
+   border: 1px solid #ff0000;
+   background-color: #00ff00;
+  }
+.btn {margin: 5px;}  
